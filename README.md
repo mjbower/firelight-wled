@@ -16,6 +16,9 @@ add a sound sensor (esp32 is more than capable of running one,  80266 struggled)
 
 ## Useful links
 https://github.com/Aircoookie/WLED/wiki/Install-WLED-binary
+
 https://kno.wled.ge/basics/getting-started/
+
 https://install.wled.me/
+
 https://www.youtube.com/watch?v=_wCOCI18nAk
