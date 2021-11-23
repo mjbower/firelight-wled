@@ -1,6 +1,20 @@
 # firelight-wled
 Firelight powered by WLED 
 
+## ESP32 Pinout
+5V Power and Ground to Pins VIN + GND
+4 strips of LEDS connected to
+GPIO15  pin3
+GPIO02  pin4
+GPIO04  pin5
+GPIO16  pin6
+
+Button connected to 
+GPIOxx  pinx
+
+![image](https://user-images.githubusercontent.com/70169792/143031557-261d094c-4d6c-45ae-9351-28e83f5eed15.png)
+
+
 ## TODO
 add a button
 add a sound sensor (esp32 is more than capable of running one,  80266 struggled)
